@@ -10,5 +10,5 @@ Foi utilizado no projeto, HTML, CSS, Bootstrap e Javascript.
 
 ![Demonstração do projeto](img/view.png)  
   
-Live Demo: [Clique aqui](https://netosantanx.github.io/imersaodev/convertermoedas/j)
+Live Demo: [Clique aqui](https://netosantanx.github.io/imersaodev/convertermoedas/j)  
 Codepen: [Clique aqui](https://codepen.io/netosantanx/pen/ZEagNKj)
